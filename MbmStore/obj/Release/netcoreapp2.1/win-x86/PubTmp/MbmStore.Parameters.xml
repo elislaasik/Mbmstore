@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="eaaabackend.dk/backend2018-exercises/Lesson07_MbmStore" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\jear\\Dropbox\\Eaaa-it\\2018e\\backend\\projects\\Exercises\\Lesson07_MbmStore_solution\\MbmStore\\obj\\Release\\netcoreapp2\.1\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
